@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get_navigation/get_navigation.dart';
-import 'package:project1/app/routers.dart';
-import 'package:project1/components/link.dart';
-import 'package:project1/pages/home.page.dart';
-import 'package:project1/pages/main.page.dart';
+import 'package:gameframework/app/routers.dart';
+import 'package:gameframework/components/link.dart';
+import 'package:gameframework/pages/home.page.dart';
+import 'package:gameframework/pages/main.page.dart';
 
 void main() {
   runApp(const ProviderScope(child: App()));

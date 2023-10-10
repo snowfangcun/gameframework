@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:project1/framework/node/node.dart';
-import 'package:project1/framework/view/page.widget.dart';
-import 'package:project1/store/app.stroe.dart';
+import 'package:gameframework/framework/view/page.widget.dart';
+import 'package:gameframework/store/app.stroe.dart';
+
 import 'home.page.dart';
 
 void aaa(){

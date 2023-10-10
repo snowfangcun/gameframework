@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:project1/pages/main/index.dart';
+import 'package:gameframework/pages/main/index.dart';
 
 /// 路由名称枚举
 class RouterName {
